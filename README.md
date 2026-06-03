@@ -1,5 +1,7 @@
 # College Event Management System
 
+👉 **Live Demo**: [http://deshdeepak.pythonanywhere.com](http://deshdeepak.pythonanywhere.com)
+
 A comprehensive web-based event management system built with Flask, HTML, CSS, and Bootstrap. This system enables students to discover and register for college events while providing administrators with powerful tools to manage events, track attendance, and monitor registrations.
 
 ## Features
